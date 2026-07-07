@@ -33,7 +33,7 @@ export function Hero() {
               className="inline-flex items-center gap-2 rounded-lg bg-primary px-5 py-3 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
             >
               <MessageCircle className="h-4 w-4" />
-              WhatsApp me
+              Hire me
             </a>
             <a
               href="#work"
