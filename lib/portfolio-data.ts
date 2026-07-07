@@ -102,4 +102,3 @@ export const stats = [
   { value: '5', label: 'Day avg. website turnaround' },
   { value: 'Global', label: 'Client experience' },
 ]
-
