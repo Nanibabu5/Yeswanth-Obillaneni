@@ -61,7 +61,7 @@ export function Hero() {
         <div className="relative">
           <div className="relative mx-auto aspect-[4/5] w-full max-w-sm overflow-hidden rounded-2xl border border-border">
             <Image
-              src="/images/headshot.png"
+              src="/images/headshot.jpg"
               alt={`Portrait of ${profile.name}`}
               fill
               priority
