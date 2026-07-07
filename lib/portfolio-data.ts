@@ -7,7 +7,7 @@ export const profile = {
   github: 'https://github.com/',
   resume: '/Yeswanth_Resume.pdf',
   tagline:
-    'I build websites that get customers, run ads that get leads, and lead teams that deliver on time.',
+    'I build fast, modern websites that help businesses get more customers.',
   intro:
     'React developer and digital marketer with hands-on experience managing 40-member teams and international clients. I bridge the gap between clean code, conversion-focused design, and on-time delivery.',
 }
